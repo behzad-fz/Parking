@@ -1,3 +1,5 @@
 /node_modules
 /vendor
-/.ida
+/.idea
+/.DS_Store
+/.phpunit.result.cache
